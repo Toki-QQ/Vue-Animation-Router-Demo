@@ -1,0 +1,1 @@
+import{d as a,e,f as r,i as n,o}from"./index-xmEwJHtl.js";const u=a({__name:"SlideDemoMain",setup(t){return(i,c)=>(o(),e(r(n),{class:"w-full h-full",animation:{backEnterDuration:1,backLeaveDuration:1,forwardEnterDuration:1,forwardLeaveDuration:1}}))}});export{u as default};
