@@ -1,1 +1,0 @@
-import{d as a,e,f as o,l as n,o as t}from"./index-xmEwJHtl.js";const i=a({__name:"FadeSlideYDemoMain",setup(r){return(l,s)=>(t(),e(o(n),{class:"w-full h-full",animation:{backTotalDuration:2,forwardTotalDuration:2}}))}});export{i as default};
